@@ -11,24 +11,21 @@ const About = () => {
             About us
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia
-            ducimus cupiditate quo harum officia perspiciatis hic ut sunt
-            repudiandae, laboriosam expedita nostrum tempora, consectetur
-            itaque, voluptate error aperiam corrupti ullam aspernatur a!
-            Dolorem, reprehenderit amet quidem deleniti iure rem vel a enim
-            ipsam hic numquam consequatur eius id eaque accusamus repudiandae
-            impedit, quisquam non, harum inventore ratione? Tempora voluptatum
-            ut eligendi corrupti esse, repellat nesciunt illum facilis officiis?
-            Nisi quidem officiis asperiores nostrum ipsa maiores explicabo quia!
-            Corporis provident asperiores fuga eligendi rem temporibus possimus
-            autem excepturi! Facilis sunt corrupti nesciunt asperiores, ab
-            consectetur doloremque, velit a mollitia possimus quaerat!
+          Welcome to <b>Johar Jharkhand</b>, where adventure meets discovery! Explore the Jharkhand with our curated selection of unforgettable tours and travel experiences. Whether you're dreaming of ancient wonders, vibrant cultures, or breathtaking natural landscapes, we've got the perfect journey for you.
+          Discover iconic landmarks, hidden gems, and immersive cultural experiences guided by knowledgeable local experts. From thrilling outdoor adventures to relaxing scenic getaways, our tours cater to every travel style and interest.
+
+
           </p>
           <br />
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi
-            suscipit minus similique aliquam recusandae quisquam id nulla
-            tempora voluptate vero.
+          Embark on a journey of a lifetime with <b>Johar Jharkhand</b>. Book your next adventure today and create memories that will last a lifetime!"
+
+
+
+
+
+
+
           </p>
         </div>
       </div>
